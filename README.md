@@ -1,6 +1,8 @@
-# aog
+# Alcohol or Gasoline
 
 A new Flutter project.
+
+An application to help you choose between alcohol or gasoline
 
 ## Getting Started
 
