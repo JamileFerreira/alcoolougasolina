@@ -13,7 +13,7 @@ class Logo extends StatelessWidget {
         height: 10,
       ),
       Text(
-        "Alcool ou Gasolina",
+        "Alcohol ou Gasoline",
         style: TextStyle(
           color: Colors.white,
           fontSize: 25,
