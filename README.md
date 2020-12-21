@@ -4,6 +4,8 @@ A new Flutter project.
 
 An application to help you choose between alcohol or gasoline
 
+![](https://github.com/JamileFerreira/alcoolougasolina/blob/master/assets/aog.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
